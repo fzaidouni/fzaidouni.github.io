@@ -1,0 +1,25 @@
+# main links links
+main:
+  - title: "CV"
+    url: /files/resume.pdf
+
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Research"
+    url: /portfolio/
+
+  # - title: "Awards & Honors"
+  #   url: /awards/
+
+  - title: "Tutorials"
+    url: /teaching/
+
+  # - title: "Teaching"
+  #   url: /teaching/
+
+  - title: "Blog"
+    url: /year-archive/
+
+  # - title: "Guide"
+    # url: /markdown/
