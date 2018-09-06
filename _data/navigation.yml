@@ -6,20 +6,20 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Research"
-    url: /portfolio/
+  - title: "Blog & Research"
+    url: /year-archive/
+
+  # - title: "Research"
+  #   url: /portfolio/
 
   # - title: "Awards & Honors"
   #   url: /awards/
 
-  - title: "Tutorials"
+  - title: "Lectures & Talks"
     url: /teaching/
 
   # - title: "Teaching"
   #   url: /teaching/
-
-  - title: "Blog"
-    url: /year-archive/
 
   # - title: "Guide"
     # url: /markdown/

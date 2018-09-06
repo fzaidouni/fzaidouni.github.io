@@ -12,26 +12,23 @@ redirect_from:
   <img src="https://lantaoyu.github.io/files/lantaoyu_img.jpg?raw=true" alt="Photo" style="width: 450px;"/>
 </p> -->
 
-I have always been greatly astounded by how algorithms and computations have driven the human generation in the 21st century, hence it has appeared to me as one of the sanest opinions to leverage this excellent computational power for making machines intelligent and perform human operations with inordinate numerical analysis capabilities. Being equipped with a strong foundation in Computer Science, and a relentless inclination towards machine intelligence, naturally engaged me in the applications of artificial intelligence. Since my freshman year in college, I have been persistently occupied taking research projects with my professors to better understand the applications of Machine Learning, Computer Vision and Natural Language Processing which I believe, are central to the idea of bringing humans and machines closer.
 
-<!-- * I will be a Ph.D. student in the [Computer Science Department](https://cs.stanford.edu/) at [Stanford University](https://www.stanford.edu/) starting from Autumn 2018. Click [here](http://babahooja.github.io/files/resume.pdf) to view my up-to-date CV. If you are interested in working with me or knowing more about me, please feel free to [contact me](http://lantaoyu.com/contact/).
-* I received my Bachelor’s Degree in [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/). My undergraduate research advisors are [Prof. Yong Yu](http://apex.sjtu.edu.cn/members/yyu), [Prof. Weinan Zhang](http://wnzhang.net/) and [Prof. Jun Wang](http://web4.cs.ucl.ac.uk/staff/jun.wang/blog/) ([University College London](https://www.ucl.ac.uk/)).
-* My research interests lie in the general area of machine learning, particularly in deep representation learning and reinforcement learning, as well as their applications in sequential decision making, generative modeling, natural language understanding and multi-agent systems.
+I am a senior year Computer Science undergrad at Delhi Technological University, New Delhi. My key research interests lie in the field of intelligence. I have learnt and worked towards various intersections of this field, namely, computational neuroscience, optimisation algorithms, visual perception and natural Language Processing.  
 
+I have worked closely on these problems with my supervisors. (Some details about my research experience)
 
-# Recent News
-* July 17, 2018. I will serve as a PC member for the 33rd AAAI Conference on Artificial Intelligence (AAAI-19).
-* April 12, 2018. New preprint: "CoT: Cooperative Training for Generative Modeling", a new paradigm for training tractable density generative model that is parallel to adversarial training. Available on [arXiv](https://arxiv.org/abs/1804.03782).
-* November 28, 2017. A paper was accepted in the *NIPS-17 Aligned Artificial Intelligence Workshop*.
-* November 12, 2017. A paper was accepted in the *AAAI-18 Artificial Intelligence for Imperfect-Information Games Workshop*.
-* September 17, 2017. New preprint: An Empirical Study of AI Population Dynamics with Million-agent Reinforcement Learning. Available on [arXiv](https://arxiv.org/abs/1709.04511)
-* August 25, 2017. We started the [Multi-Agent Reinforcement Learning reading group](https://feifang.info/marl-reading-group/).
-* August 15, 2017. I started to work as a research intern at Carnegie Mellon University for the next six months.
-* August 9, 2017. I won the [Best Paper Award Honorable Mention](https://lantaoyu.github.io/files/sigir17-award.jpg) at [SIGIR 2017](http://sigir.org/sigir2017/program/awards/).
-* August 6 - August 12, 2017. I attended the 40th International ACM SIGIR Conference on Research and Development in Information Retrieval held in Tokyo, Japan.
-* July 26, 2017. I gave an [online talk](https://zhuanlan.zhihu.com/p/28151434) on ["Generative Adversarial Networks for Discrete Data"](http://lantaoyu.com/files/2017-07-26-gan-for-discrete-data.pdf) at [PaperWeekly](https://zhuanlan.zhihu.com/paperweekly).
-* May 19, 2017. A paper titled "A Dynamic Attention Deep Model for Article Recommendation by Learning Human Editors’ Demonstration" was accepted at [KDD 2017](http://www.kdd.org/kdd2017/).
-* April 19, 2017. I gave a [talk](http://lantaoyu.com/files/2017-04-19-gans-for-ir.pdf) on applying adversarial training techniques for information retrieval at Apex Lab, Shanghai Jiao Tong University.
-* April 11, 2017. A paper titled "IRGAN: A Minimax Game for Unifying Generative and Discriminative Information Retrieval Models" was accepted at [SIGIR 2017](http://sigir.org/sigir2017/).
-* February 4 - February 9, 2017. I attended the Thirty-First AAAI Conference on Artificial Intelligence held in San Francisco, California, US and gave a [talk](http://lantaoyu.com/files/2017-02-07-aaai-seqgan.pdf) on applying adversarial training for generating sequential data.
-* November 11, 2016. A paper titled "SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient" was accepted at [AAAI 2017](http://www.aaai.org/Conferences/AAAI/aaai17.php). -->
+Some of my research has been published in Elsevier and IEEE transactions. Know more about my projects on my Github. (A little more words about my pubs and projects)
+
+While researching on these problems, I felt a void on the available of quality content on some of the most foundational topics, which motivated me to curate youtube lectures. Eventually we founded a core college Society — Optima for openSource curation of mathematical foundations required in Machine Learning.
+
+Some open questions I am facing right now!
+1. Transition representation or sequence representation.
+2.
+
+Email (Link) me in case these interest you!
+
+Recent News:
+
+1. Our publication recently got accepted in Journal of Computer Science and Engineering. (Add Links)
+2. Recently completed my research intern at IPAM, UCLA under RIPS-NSF Scholarship. (Add links)
+3. Published and present

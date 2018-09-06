@@ -3,9 +3,9 @@ title: 'The Story of Will (Wish)'
 date: 2015-08-14
 permalink: /posts/2015/08/story-of-will/
 tags:
-- 'Self Introspection'
+- Self Introspection
 - '42'
-- 'Life'
+- Life
 ---
 Let’s make a wish, or let’s not… Let’s open those eyes wide open, or shut them close… Let’s think for a minute, or just relax… I don’t know or do I?
 

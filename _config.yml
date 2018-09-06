@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Himanshu Ahuja"
+title                    : "Fatima Zaidouni"
 title_separator          : "-"
-name                     : &name "Himanshu Ahuja"
-description              : &description "Research Intern & RIPS Scholar, IPAM UCLA"
-url                      : http://neuro.uno # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Fatima Zaidouni"
+description              : &description "Astro Physics and Mathematics major at University of Rochester"
+url                      : https://fzaidouni.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "himahuja/himahuja.github.io"
+repository               : "fzaidouni/fzaidouni.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -77,13 +77,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Himanshu Ahuja"
+  name             : "Fatima Zaidouni"
   avatar           : "profile_avatar.jpg"
-  bio              : "Undergraduate Student, Computer Science Engineering, Delhi Technological University"
-  location         : "New Delhi, India"
+  bio              : "Undergraduate Student, Astro-Physics, University of Rochester, Rochester, NY"
+  location         : "Rochester, NY"
   employer         :
-  googlescholar    : "https://scholar.google.com/citations?view_op=list_works&hl=en&user=Y_Alq8oAAAAJ"
-  email            : "babahooja@gmail.com"
+  googlescholar    :
+  email            : "fzaidoun@u.rochester.edu"
   uri              :
   bitbucket        :
   codepen          :
@@ -91,12 +91,12 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "himahuja"
+  github           : "fzaidouni"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "babahooja"
+  linkedin         :
   orcid            :
   pinterest        :
   soundcloud       :
@@ -107,7 +107,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : "https://www.youtube.com/channel/UCCnQMP8_YZbqX4b9SXNFfOw"
+  youtube          : 
   wikipedia        :
 
 

@@ -32,7 +32,7 @@ The authors use a **Bi-Directional Gated Recurrent Unit (Bi-GRU)** as the basis 
 Each of the GRU units process these vectors sequentially. The final hidden state in both the directions is used to calculate the final tweet embedding $$e_t$$. Any success this model has for using an RNN is due to the fact that the microblog posts are small in length and the hidden state can capture the essence of the whole sentence.
 
 Considering $$x_1, x_2, .... x_m$$ be the set of sequence of vectors that are fed to the NN, which will generate the hidden states: $$h_1, h2, ..., h_m$$. The GRU process an input $$x_t$$ as follows:
-$ r_t = \sigma(W_r x_t + U_r h_{t-1} + b_r)\\]
+\\[r_t = \sigma(W_r x_t + U_r h_{t-1} + b_r)\\]
 \\[z_t = \sigma(W_z x_t + U_z h_{t-1} + b_z)\\]
 \\[ \tilde{h_t} = \tanh(W_h x_t + U_h (r_t \odot h_{t-1}) + b_h)\\]
 \\[h_t = (1-z_t) \odot h_{t-1} + z_t \odot \tilde{h_t} \\]
