@@ -1,6 +1,6 @@
 ---
 <!-- layout: archive -->
-title: "Himanshu Ahuja"
+title: "Fatima Zaidouni"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[Click to View My Up-to-date Curriculum Vitae [PDF]](http://himahuja.github.io/files/resume.pdf)
+[Click to View My Up-to-date Curriculum Vitae (PDF)](/files/resume.pdf)
