@@ -1,22 +1,25 @@
 # main links links
 main:
+  - title: "CV"
+    url: /files/cv-confidential.pdf
+
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
+  - title: "Research Blog"
     url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
+
+  # - title: "Research"
+  #   url: /portfolio/
+
+  # - title: "Awards & Honors"
+  #   url: /awards/
+
+  - title: "Lectures & Talks"
+    url: /teaching/
+
+  # - title: "Teaching"
+  #   url: /teaching/
+
+  # - title: "Guide"
+    # url: /markdown/
